@@ -33,6 +33,3 @@ The submission should be in the form of a presentation, with a supporting archit
 
 ### Bonus
 Design a deployment pipeline to deploy the rails app to your kubernetes cluster when new code is pushed to its remote branch.
-
-### Submission
-During the presentation, 
